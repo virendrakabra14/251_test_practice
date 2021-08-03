@@ -1,1 +1,3 @@
 This is the first line of file1.txt.
+-----line for git merge-----
+-----line for git merge, from testing-----
