@@ -3,3 +3,4 @@ This is the first line of file1.txt.
 -----line for git merge, from testing-----
 New line added from testing
 New line from master
+New line from testing
